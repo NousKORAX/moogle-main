@@ -1,4 +1,4 @@
-﻿//Pedro Dennis Perez Marquez C121
+﻿//Dayan Cabrera Corvo C112
 namespace MoogleEngine;
 
 
@@ -52,7 +52,7 @@ public static class Moogle
                     {
                         if (signos[j] == '*')
                         {
-                            Console.WriteLine("ES LAPINGA");
+                           
                             presencia[Datos.WordValue[TempWord1]] *= 100;
                         }
                         if (signos[j] == '!')
